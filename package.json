@@ -7,8 +7,14 @@
     "http": [
       {
         "/": {
-          "method": "any",
+          "method": "get",
           "src": "."
+        }
+      },
+      {
+        "/images": {
+          "method": "get",
+          "src": "./api"
         }
       }
     ]
