@@ -14,7 +14,7 @@
       {
         "/images": {
           "method": "get",
-          "src": "./api"
+          "src": "/api"
         }
       }
     ]
